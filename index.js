@@ -1,3 +1,10 @@
+/**
+ * Project: goGreen
+ * Author: Audace Kwizera
+ * GitHub: https://github.com/KendrickAudace
+ * Created: 2026
+ */
+
 import jsonfile from "jsonfile";
 import moment from "moment";
 import simpleGit from "simple-git";
